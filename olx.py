@@ -46,4 +46,4 @@ def main():
 while True:
     main()
     # print("sprawdzam")
-    time.sleep(3)
+    time.sleep(60)
